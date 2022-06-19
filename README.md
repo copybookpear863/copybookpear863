@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS/programming and audio programming
 - 🌱 I’m currently learning React Native and Matlab
 - 💞️ I’m not currently looking to collaborate.
-- 📫 Here's more about me: [insert website link]
+- 📫 Here's more about me: [dashashevchenko.com]
 
 <!---
 copybookpear863/copybookpear863 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
